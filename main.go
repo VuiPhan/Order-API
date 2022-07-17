@@ -22,5 +22,5 @@ func main() {
 			"message": "pong",
 		})
 	})
-	router.Run(":8080")
+	router.Run(":3000")
 }
